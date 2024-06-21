@@ -2,10 +2,10 @@
 
 Complete AI Tools (Chatbot, Image Generation, Music Generation, Video Generation, and Code Generation) SaaS Platform built using Next.js 14, Stripe, OpenAI, ReplicateAI, Crisp, Aiven, and Prisma.
 
-<a href="https://aftabrehan.com/portfolio/modern-saas-ai-platform"><img src="/.github/images/thumbnail.png" alt="project-thumbnail"/></a>
+<a href="https://redtomato0129.com/portfolio/modern-saas-ai-platform"><img src="/.github/images/thumbnail.png" alt="project-thumbnail"/></a>
 
-| [View Project 🔥](https://aftabrehan.com/portfolio/modern-saas-ai-platform) | [Live Preview 🚀](https://jarvis-wex.vercel.app) |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [View Project 🔥](https://redtomato0129.com/portfolio/modern-saas-ai-platform) | [Live Preview 🚀](https://jarvis-wex.vercel.app) |
+| ------------------------------------------------------------------------------ | ------------------------------------------------ |
 
 ## Features
 
@@ -33,9 +33,9 @@ Complete AI Tools (Chatbot, Image Generation, Music Generation, Video Generation
 1. Ensure that **Git** and **NodeJS (18.x.x)** are installed on your system.
 2. Clone this repository to your local machine.
 
-```
-git clone https://github.com/aftabrehan/jarvis-ai.git
-```
+````
+git clone https://github.com/redtomato0129/ai-generation.git
+```https://github.com/redtomato0129/ai-generation.git
 
 3. Create a `.env` file in the **root** directory and add the following contents to your `.env` file:
 
@@ -71,7 +71,7 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 
 # Crisp website ID
 NEXT_PUBLIC_CRISP_WEBSITE_ID=xxxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx
-```
+````
 
 #### 4. Clerk Authentication Keys
 

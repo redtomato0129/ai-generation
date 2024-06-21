@@ -11,8 +11,8 @@
   },
   "author": {
     "name": "Aftab Rehan",
-    "email": "workwithaftabrehan@gmail.com",
-    "url": "https://github.com/aftabrehan"
+    "email": "workwithredtomato0129@gmail.com",
+    "url": "https://github.com/redtomato0129"
   },
   "description": "The connected workspace where better, faster work happens.",
   "keywords": [
@@ -59,12 +59,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aftabrehan/jarvis-ai.git"
+    "url": "https://github.com/redtomato0129/ai-generation.git"
   },
-  "homepage": "https://github.com/aftabrehan/jarvis-ai#readme",
+  "homepage": "https://github.com/redtomato0129/jarvis-ai#readme",
   "bugs": {
-    "url": "https://github.com/aftabrehan/jarvis-ai/issues",
-    "email": "workwithaftabrehan@gmail.com"
+    "url": "https://github.com/redtomato0129/jarvis-ai/issues",
+    "email": "workwithredtomato0129@gmail.com"
   },
   "dependencies": {
     "@clerk/nextjs": "^4.29.3",
